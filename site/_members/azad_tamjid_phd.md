@@ -8,7 +8,7 @@ position: PhD Student
 order: 2
 hidden: false # Set to true if you want to hide this profile from the members page
 picture: /assets/images/members/john_doe.jpg
-bio: I am pursuing a PhD in Computer Science at Northern Illinois University (Aug 2023–present), where I work as a Research Assistant at DATALab. My current research explores how Large Language Models (LLMs) can transform how we understand and evaluate scientific knowledge. My work applies retrieval-augmented LLMs to predict the scholarly impact of research papers, which expedites the evaluation process and helps to learn impact immediately. I also seek to explore how citations are reframed and reinterpreted across scientific literature, and to uncover how the same work is interpreted differently across disciplines and contexts in scholarly writing. My goal is to create a more nuanced and meaningful way of understanding scholarly impact in the science of science field.
+bio: I am pursuing a PhD in Computer Science at Northern Illinois University, where I work as a Research Assistant at DATALab. My current research focuses on evaluating the reliability of Large Language Models (LLMs) in scholarly citation and reference recommendation. I have used retrieval-augmented LLMs to predict the scholarly impact of research papers, which can expedite the evaluation process and understand a paper's impact based on prior work that is similar. I have also analyzed the hallucinations and confidence of LLMs when recommending references and used models to verify whether scientific claims are supported by their cited sources.
 email: tamjidazad365@gmail.com
 github: https://github.com/tazad-csci
 linkedin: https://www.linkedin.com/in/tamjidazad401
